@@ -1,0 +1,6 @@
+a=("mahesh",2,9,"hlo")
+print(a)
+print(type(a))
+print(a+a)
+print(a*4)
+print(a[0:2])

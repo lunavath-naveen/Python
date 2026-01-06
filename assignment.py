@@ -1,0 +1,15 @@
+a=35
+b=56
+print(a=b)
+c=a+=b
+print(c)
+c=b-=a
+print(c)
+c=b*=a
+print(c)
+c=a%=b
+print(c)
+c=a**=b
+print(c)
+c=b//=a
+print(c)
